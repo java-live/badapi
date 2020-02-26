@@ -1,1 +1,1 @@
-This repo to demonstrate code guru
+read this
